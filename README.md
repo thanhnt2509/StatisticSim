@@ -3,4 +3,4 @@
 * FE simulate the probability to pass a multiple choice exam at FPTU.
 ## Requirement
 * JDK and JRE 1.8
-* For IDE I'm using Netbeans 8.2, other IDE like Eclipse, IDEA, etc should be fine too.
+* For IDE I'm using NetBeans 8.2, other IDE like Eclipse, IntelliJ, etc should be fine too.
